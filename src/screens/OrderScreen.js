@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Header from "./../components/Header";
 import { PayPalButton } from "react-paypal-button-v2";
-import ShopSection from '../components/homeComponents/ShopSection';
 
 const OrderScreen = () => {
   window.scrollTo(0, 0);
